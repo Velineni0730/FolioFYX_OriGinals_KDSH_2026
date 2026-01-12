@@ -1,0 +1,4 @@
+pathway
+ollama
+pandas
+tqdm
